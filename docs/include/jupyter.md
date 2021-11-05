@@ -9,7 +9,7 @@
 To start a jupyter server, just type the following in a terminal:
 
 ```bash
-jupyter notebook
+jupyter notebook  # alternative `jupyter lab`
 ```
 
 This should open a new tab in your browser.

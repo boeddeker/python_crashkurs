@@ -18,7 +18,7 @@
     Start the Application `Jupyter Notebook` from your Start-Menu. Then open your browser and navigate to `localhost:8888`
     
 **Option 2:**
-    Press `Windows + R`, type in `Anaconda Promt` and press `ENTER`. Then type in `jupyter notebook` and press `ENTER`. Do not close the window and navigate to `localhost:8888` with your browser. <br>
+    Press `Windows + R`, type in `Anaconda Promt` and press `ENTER`. Then type in `jupyter notebook` or `jupyter lab` and press `ENTER`. Do not close the window and navigate to `localhost:8888` with your browser. <br>
     <font color='red'>IMPORTANT:</font> Jupyter always starts in the directory of your shell (`pwd`), unless configured otherwise. Make sure you navigate always to the same directory (ideally the one you want to store your notebooks in) before you type in the command. You can change the directory with the `cd` command (e.g: `cd C:\Users\YOURUSER\python\KSS`) and list the contents of a directory with `dir`.
 
 ## Optional: IDE

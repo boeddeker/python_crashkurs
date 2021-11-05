@@ -12,7 +12,7 @@ Go to the directory where your excersises are (Use `cd <folder>` to change the d
 
 Launch the jupyter server with the following command:
 ```bash
-jupyter notebook
+jupyter notebook  # alternative `jupyter lab`
 ```
 
 Complete example to run for the first time (i.e. initialize)
@@ -21,7 +21,7 @@ cd ~/
 git clone https://github.com/fgnt/python_crashkurs.git
 cd ~/python_crashkurs
 source /upb/scratch/users/c/cbj/py39/bin/activate
-jupyter notebook
+jupyter notebook  # alternative `jupyter lab`
 ```
 
 
@@ -29,7 +29,7 @@ Complete example to run if already initialized:
 ```bash
 cd ~/python-crashkurs
 source /upb/scratch/users/c/cbj/py39/bin/activate
-jupyter notebook
+jupyter notebook  # alternative `jupyter lab`
 ```
 
 # Use CoCalc
